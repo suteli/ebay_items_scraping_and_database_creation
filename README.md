@@ -1,2 +1,2 @@
 # ebay_items_scraping_and_databasing
-Scraped first 1000 items for PS4 on eBay and dumped relative information into a SQL database.
+I scraped the first 1000 items for PS4 on eBay, with information including seller name, seller score, item price, number of items sold, best offer available, title, returns allowed, shipping price, condition. I separated the items into sponsored and non-sponsored and stored the links into two separate files, and kept the webpages in two separate folders. After obtaining all relavent information, I looked into the differneces between sponsored and non-sponsored items.
